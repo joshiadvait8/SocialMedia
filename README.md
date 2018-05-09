@@ -1,2 +1,2 @@
 # SocialMedia
-Social Media icon Hover Effect .
+Social Media icons Hover Effect .
