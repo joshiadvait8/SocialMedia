@@ -1,4 +1,8 @@
 # SocialMedia
 ## Social Media icons Hover Effect .
-<a href="https://i.imgur.com/KJ1PygS.gif" title="with cool Hover Effect"></a>
-[[made-with-python](https://img.shields.io/badge/Made%20with-HTML%20CSS-green.svg]()
+<img src="https://i.imgur.com/KJ1PygS.gif" />
+
+
+![](https://img.shields.io/badge/made%20with-HTML-orange.svg)
+![](https://img.shields.io/badge/Thanks%20to%20-CSS-blue.svg)
+
